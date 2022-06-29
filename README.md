@@ -34,6 +34,6 @@ How about adding me on https://www.linkedin.com/in/philip-p-41a354144
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilkCH&show_icons=true&theme=nightowl&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![FilkCH's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilkCH&show_icons=true&theme=nightowl&count_private=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilkCH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![FilkCH's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilkCH&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
