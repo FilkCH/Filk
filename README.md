@@ -1,5 +1,5 @@
 ## Grüezi! ![Rainbowsheep!](https://i.imgur.com/l5eO3J0.gif)
-Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerland, who specialized in UI development and UX thinking. Currently I'm kind of evolving into a web developer, getting from only HTML and CSS knowledge into full-fledged javascript application coding.
+Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerland, who specialized in UI development and UX thinking. Currently I'm kind of slowly evolving into a full-fledged web developer, getting from only HTML and CSS knowledge into javascript application coding.
 
 ---
 ### My code affinities
