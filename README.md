@@ -28,7 +28,7 @@ Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerla
 
 ### Find me somewhere else
 
-How about adding me on https://www.linkedin.com/in/philip-p-41a354144
+How about adding me on https://www.linkedin.com/in/park-philip/
 
 ---
 
