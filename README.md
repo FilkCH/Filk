@@ -13,9 +13,7 @@ Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerla
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%233c404a.svg?style=for-the-badge&logo=React&logoColor=React)
-![Angular](https://img.shields.io/badge/angularjs-%23E23237.svg?style=for-the-badge&logo=AngularJS&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### My Software
