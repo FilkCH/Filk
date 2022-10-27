@@ -10,7 +10,8 @@ Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerla
 
 ### My Tools and frameworks
 
-![Tailwind](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%23007FFF.svg?style=for-the-badge&logo=TailwindCSS&logoColor=white)
+![MUI](https://img.shields.io/badge/mui-%2306B6D4.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%233c404a.svg?style=for-the-badge&logo=React&logoColor=React)
