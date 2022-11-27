@@ -9,7 +9,7 @@ Glad to see you on my profile. I'm a visual designer based in Zürich, Switzerla
 ![JavaScript](https://img.shields.io/badge/javascript-%23ffff00.svg?style=for-the-badge&logo=javascript&logoColor=%23000000)
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF)
 
-### My Tools and frameworks
+### My Frameworks, Tools and Libraries
 
 ![MUI](https://img.shields.io/badge/mui-%23007FFF.svg?style=for-the-badge&logo=MUI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
